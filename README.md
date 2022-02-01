@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning about UX/UI
 - 👯 I’m looking to collaborate on Flutter Projects
 - 😄 Pronouns: He/him/his
-- ⚡ Fun fact: I think I can play the saxophone 🎷
+- ⚡ Fun fact: I think I know how to play the saxophone 🎷
 
 <div align="center">
   <a href="https://github.com/carrizomiguel">
