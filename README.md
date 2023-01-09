@@ -29,7 +29,7 @@
   <a href="https://open.spotify.com/user/f9jja0gg68agtzixapps8rs9v?si=9db2a401fe0941fc" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCWhr-0oaY91WqZb2CqzIvPw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   
-  ![snake gif](https://github.com/carrizomiguel/carrizomiguel/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/carrizomiguel/carrizomiguel/blob/output/github-snake.svg#gh-dark-mode-only)![snake gif](https://github.com/carrizomiguel/carrizomiguel/blob/output/github-snake-dark.svg#gh-light-mode-only)
   
 </div>
  
