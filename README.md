@@ -7,9 +7,12 @@
 - ⚡ Fun fact: I think I know how to play the saxophone 🎷
 
 <div align="center">
-  <a href="https://github.com/carrizomiguel">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=carrizomiguel&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carrizomiguel&layout=compact&langs_count=7&theme=github_dark&exclude_repo=netflix_web_github_page&hide=html"/>
+  <a href="https://github.com/carrizomiguel/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=carrizomiguel&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/carrizomiguel/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=carrizomiguel&layout=compact&langs_count=7&theme=dark&exclude_repo=netflix_web_github_page&hide=html" />
+  </a>
 </div>
  
 <div style="display: inline_block"><br>
