@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/carrizomiguel/github-readme-stats">
-    <img width="120" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=carrizomiguel&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+    <img width="350" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=carrizomiguel&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   </a>
   <a href="https://github.com/carrizomiguel/github-readme-stats">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=carrizomiguel&layout=compact&langs_count=7&theme=dark&exclude_repo=netflix_web_github_page&hide=html" />
