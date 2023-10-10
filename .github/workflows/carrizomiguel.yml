@@ -11,14 +11,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
-      - uses: Platane/snk/svg-only@v2
+      - uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: carrizomiguel
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-          svg_out_path: dist
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
