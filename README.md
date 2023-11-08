@@ -1,7 +1,7 @@
 ### Hi there 👋
-## I'm a Software Developer
+## I'm a Flutter Developer
 
-- 🌱 I’m currently learning about UX/UI
+- 🌱 I’m currently learning Kotlin and Swift
 - 👯 I’m looking to collaborate on Flutter Projects
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: I think I know how to play the saxophone 🎷
